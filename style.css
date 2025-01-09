@@ -1,0 +1,134 @@
+ .top {
+    border: 50px solid sandybrown;
+ }
+
+ * {
+    background-color: antiquewhite;
+ }
+
+ .adress {
+    font-family: sans-serif;
+    color: grey;
+    text-align: center;
+ }
+
+ .profile {
+    background-color: palevioletred;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    align-items: center;
+    height: 100px;
+ }
+
+ .bar {
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+ }
+
+ .html-bar {
+    background-color: green;
+    border-radius: 10px;
+    width: 230px;
+    text-align: center;
+ }
+
+ .css-bar {
+    background-color: green;
+    border-radius: 10px;
+    width: 210px;
+    text-align: center;
+ }
+
+ .js-bar {
+    background-color: green;
+    border-radius: 10px;
+    width: 180px;
+    text-align: center;
+ }
+
+ .image {
+    height: 100px;
+    text-align: left;
+ }
+
+ .Frontend {
+    font-family: sans-serif;
+    font-weight: lighter;
+ }
+
+ .summary {
+    margin-top: 20px;
+    width: 1215px;
+    height: 30px;
+    background-color: aquamarine;
+    font-size: 27px;
+    font-weight: bolder;
+    padding-left: 10px;
+    letter-spacing: 1px;
+
+ }
+
+ .paragraph {
+    font-family: sans-serif;
+    color: rgba(13, 12, 12, 0.692);
+    padding: 5px;
+ }
+
+ .skill {
+    width: 1213px;
+    height: 30px;
+    background-color: aquamarine;
+    font-size: 27px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 2px;
+    padding-left: 10px;
+ }
+
+ .experience {
+    margin-top: 20px;
+    width: 1190px;
+    height: 30px;
+    background-color: aquamarine;
+    font-size: 27px;
+    font-weight: bolder;
+    padding-left: 10px;
+    position: absolute;
+    left: 10px;
+
+ }
+ .html {
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: 3px;
+    margin-left: 80px;
+    margin-top: 65px;
+ }
+
+ .pc-web {
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+    margin-left: 50px;
+ }
+ .UI {
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 50px;
+ }
+
+ .experience-para {
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 1px;
+ }
+
+ .image {
+    position: absolute;
+    left: 5px;
+
+ }
